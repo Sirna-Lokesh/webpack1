@@ -1,0 +1,14 @@
+@font-face {
+    font-family: roboto;
+    src: url(../fonts/Roboto-Light.ttf);
+}
+h2{
+    color: green;
+}
+*{
+    font-family: 'roboto';
+}
+.getData{
+    border-radius: 10px;
+}
+
